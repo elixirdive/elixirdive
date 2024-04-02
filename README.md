@@ -1,6 +1,6 @@
 ### Hi there 👋
-## Welcome to the home of elixirdive.
-## Dive in with me and learn all the good stuff elixir has to offer 
+### Welcome to the home of elixirdive.
+### Dive in with me and learn all the good stuff elixir has to offer 
 
 <!--
 **elixirdive/elixirdive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
